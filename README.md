@@ -4,13 +4,11 @@ I'm _**Julius Victor Leyesa**_, a 4th year mechatronics engineering student. Mec
 
 [![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/jujuvml/jujuvml/assets/143612018/47a60228-4bc6-49d9-ac55-2d34b207c19a)](https://camo.githubusercontent.com/cd833befa98b97eaf4a45f4e85ec64453e9bdf1f134f8f1592d583911b7c7d7c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3832382f302a37513379765349765f7430696f4a2d5a2e676966)
 
-
-# [![](https://visitcount.itsvg.in/api?id=jujuvml&icon=0&color=0)](https://visitcount.itsvg.in)
 # About Me:
 * 🌍 Currently Living in San Jose, Batangas
 * 🎓 Studying Mechatronics Engineering at Batangas State University
-* 🌐 Eager on CAD and programming
-* 🌱 Exploring new engineering techniques everyday
+* 🌐 Fond of doing CAD and programming
+* 🌱 Exploring new engineering techniques every day
 
 
 # My Contacts:
