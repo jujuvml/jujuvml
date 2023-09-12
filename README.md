@@ -27,5 +27,4 @@ I'm _**Julius Victor Leyesa**_, a 4th year mechatronics engineering student. Mec
 
 # GitHub Stats:
 ![jujuvml's Stats](https://github-readme-stats.vercel.app/api?username=jujuvml&theme=merko&show_icons=true&hide_border=true&count_private=false)
-![jujuvml's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jujuvml&theme=merko&hide_border=true)
 ![jujuvml's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jujuvml&theme=merko&show_icons=true&hide_border=true&layout=compact)
